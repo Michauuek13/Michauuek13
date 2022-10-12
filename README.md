@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michauuek13
 - 👀 I’m interested in programing games
 - 🌱 I’m currently learning c++ and Unreal Engine 5
-- 💞️ I’m looking to collaborate on CD PRojekt Red
+- 💞️ I’m looking to collaborate on CD Projekt Red
 - 📫 How to reach me ...
 
 <!---
